@@ -1,3 +1,5 @@
 # javascript-repo-j9ak
 
-Along coach certain type.
+This is a sample project written in **Python**.
+
+Generated automatically.
